@@ -1,6 +1,4 @@
 # new
-first repository
+first repository for python programs.
 <br>
-Author:Vaishali Chocha
-<br>
-This is first repository.
+All python programs
